@@ -1,0 +1,318 @@
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ApplicationInsights.config
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\csc.exe
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\System.Collections.Immutable.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\System.Reflection.Metadata.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\vbc.exe
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\VBCSCompiler.exe
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\roslyn\VBCSCompiler.exe.config
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGESClientApplication.dll.config
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGESClientApplication.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGESClientApplication.pdb
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Antlr3.Runtime.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\LnT.SSO.Saml2.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\LnT.SSO.Saml2.Mvc.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.Agent.Intercept.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.DependencyCollector.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.Web.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.WindowsServer.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.ApplicationInsights.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.Amqp.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.Devices.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.Devices.Shared.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.EventHubs.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.EventHubs.Processor.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.KeyVault.Core.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.Edm.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.OData.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.Services.Client.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Security.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Security.OAuth.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Web.Infrastructure.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.WindowsAzure.Storage.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Newtonsoft.Json.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Ninject.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Owin.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\PCLCrypto.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.BCrypt.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.Kernel32.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.NCrypt.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.Windows.Core.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Net.Http.Formatting.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Spatial.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Helpers.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.Owin.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.WebHost.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Mvc.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Optimization.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Razor.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.Deployment.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.Razor.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Validation.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Business.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Business.Interface.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DataAccess.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DataAccess.Interface.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DTO.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Encryption.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Log.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WebGrease.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Business.Interface.pdb
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Business.pdb
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DataAccess.Interface.pdb
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DataAccess.pdb
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DTO.pdb
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Encryption.pdb
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Log.pdb
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.DependencyCollector.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.Web.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.WindowsServer.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.ApplicationInsights.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.Amqp.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.Devices.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.EventHubs.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.EventHubs.Processor.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.KeyVault.Core.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.Edm.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.OData.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.Services.Client.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Security.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Security.OAuth.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.WindowsAzure.Storage.pdb
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.WindowsAzure.Storage.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Newtonsoft.Json.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Ninject.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\PCLCrypto.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.BCrypt.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.Kernel32.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.NCrypt.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.Windows.Core.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Net.Http.Formatting.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Spatial.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.Owin.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.WebHost.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Helpers.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Mvc.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Optimization.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Razor.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.Deployment.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.Razor.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Validation.xml
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\Antlr3.Runtime.pdb
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\de\Microsoft.Data.Edm.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\es\Microsoft.Data.Edm.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\it\Microsoft.Data.Edm.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\de\Microsoft.Data.OData.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\es\Microsoft.Data.OData.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\fr\Microsoft.Data.OData.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\it\Microsoft.Data.OData.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ja\Microsoft.Data.OData.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ko\Microsoft.Data.OData.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ru\Microsoft.Data.OData.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\de\Microsoft.Data.Services.Client.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\es\Microsoft.Data.Services.Client.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\fr\Microsoft.Data.Services.Client.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\it\Microsoft.Data.Services.Client.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ja\Microsoft.Data.Services.Client.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ko\Microsoft.Data.Services.Client.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ru\Microsoft.Data.Services.Client.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\de\System.Spatial.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\es\System.Spatial.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\fr\System.Spatial.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\it\System.Spatial.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ja\System.Spatial.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ko\System.Spatial.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\ru\System.Spatial.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\zh-Hans\System.Spatial.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\bin\zh-Hant\System.Spatial.resources.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\obj\Release\WAGES.WebApplication.csprojResolveAssemblyReference.cache
+F:\new wages\MvcApplication&Api\WAGESClientApplication\obj\Release\WAGES.WebApplication.csproj.CoreCompileInputs.cache
+F:\new wages\MvcApplication&Api\WAGESClientApplication\obj\Release\WAGESClientApplication.dll
+F:\new wages\MvcApplication&Api\WAGESClientApplication\obj\Release\WAGESClientApplication.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ApplicationInsights.config
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\csc.exe
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\System.Collections.Immutable.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\System.Reflection.Metadata.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\vbc.exe
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\VBCSCompiler.exe
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\roslyn\VBCSCompiler.exe.config
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGESClientApplication.dll.config
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGESClientApplication.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGESClientApplication.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Antlr3.Runtime.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\LnT.SSO.Saml2.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\LnT.SSO.Saml2.Mvc.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.Agent.Intercept.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.DependencyCollector.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.Web.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.WindowsServer.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.ApplicationInsights.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.Amqp.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.Devices.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.Devices.Shared.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.EventHubs.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.EventHubs.Processor.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.KeyVault.Core.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.Edm.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.OData.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.Services.Client.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Security.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Security.OAuth.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Web.Infrastructure.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.WindowsAzure.Storage.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Newtonsoft.Json.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Ninject.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Owin.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\PCLCrypto.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.BCrypt.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.Kernel32.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.NCrypt.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.Windows.Core.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Net.Http.Formatting.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Spatial.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Helpers.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.Owin.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.WebHost.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Mvc.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Optimization.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Razor.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.Deployment.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.Razor.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Validation.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Business.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Business.Interface.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DataAccess.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DataAccess.Interface.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DTO.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Encryption.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Log.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WebGrease.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Business.Interface.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Business.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DataAccess.Interface.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DataAccess.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.DTO.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Encryption.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\WAGES.Log.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.DependencyCollector.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.Web.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.AI.WindowsServer.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.ApplicationInsights.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.Amqp.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.Devices.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.EventHubs.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.EventHubs.Processor.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Azure.KeyVault.Core.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.Edm.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.OData.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Data.Services.Client.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Security.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.Owin.Security.OAuth.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.WindowsAzure.Storage.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Microsoft.WindowsAzure.Storage.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Newtonsoft.Json.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Ninject.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\PCLCrypto.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.BCrypt.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.Kernel32.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.NCrypt.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\PInvoke.Windows.Core.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Net.Http.Formatting.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Spatial.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.Owin.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Http.WebHost.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Helpers.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Mvc.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Optimization.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.Razor.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.Deployment.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\System.Web.WebPages.Razor.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Validation.xml
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\Antlr3.Runtime.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\de\Microsoft.Data.Edm.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\es\Microsoft.Data.Edm.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\it\Microsoft.Data.Edm.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\de\Microsoft.Data.OData.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\es\Microsoft.Data.OData.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\fr\Microsoft.Data.OData.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\it\Microsoft.Data.OData.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ja\Microsoft.Data.OData.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ko\Microsoft.Data.OData.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ru\Microsoft.Data.OData.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\de\System.Spatial.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\es\System.Spatial.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\fr\System.Spatial.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\it\System.Spatial.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ja\System.Spatial.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ko\System.Spatial.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\ru\System.Spatial.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\zh-Hans\System.Spatial.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\bin\zh-Hant\System.Spatial.resources.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\obj\Release\WAGES.WebApplication.csprojResolveAssemblyReference.cache
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\obj\Release\WAGES.WebApplication.csproj.CoreCompileInputs.cache
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\obj\Release\WAGESClientApplication.dll
+E:\05SEP2017\MvcApplication&Api\WAGESClientApplication\obj\Release\WAGESClientApplication.pdb

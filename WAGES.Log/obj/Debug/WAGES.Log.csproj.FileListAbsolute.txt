@@ -1,0 +1,90 @@
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\EMMS.Log.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\EMMS.Log.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.Helpers.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.Mvc.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.Razor.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.WebPages.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.Helpers.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.Mvc.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.Razor.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.WebPages.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\obj\Debug\EMMS.Log.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMS.Log\obj\Debug\EMMS.Log.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\WAGES.Log.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\WAGES.Log.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.Helpers.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.Mvc.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.Razor.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.WebPages.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.Helpers.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.Mvc.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.Razor.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.WebPages.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\obj\Debug\WAGES.Log.csprojResolveAssemblyReference.cache
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\obj\Debug\WAGES.Log.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGES.Log\obj\Debug\WAGES.Log.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\WAGES.Log.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\WAGES.Log.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Helpers.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Mvc.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Razor.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Razor.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Helpers.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Mvc.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Razor.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Razor.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\obj\Debug\WAGES.Log.csprojResolveAssemblyReference.cache
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\obj\Debug\WAGES.Log.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\obj\Debug\WAGES.Log.pdb
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\WAGES.Log.dll
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\WAGES.Log.pdb
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Helpers.dll
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Mvc.dll
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Razor.dll
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.dll
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Helpers.xml
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Mvc.xml
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Razor.xml
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.xml
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Wages New App\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Wages New App\MvcApplication&Api\WAGES.Log\obj\Debug\WAGES.Log.csprojResolveAssemblyReference.cache
+D:\Wages New App\MvcApplication&Api\WAGES.Log\obj\Debug\WAGES.Log.dll
+D:\Wages New App\MvcApplication&Api\WAGES.Log\obj\Debug\WAGES.Log.pdb
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\WAGES.Log.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\WAGES.Log.pdb
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Helpers.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Mvc.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Razor.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Razor.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Helpers.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Mvc.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.Razor.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Debug\System.Web.WebPages.Razor.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\obj\Debug\WAGES.Log.csprojResolveAssemblyReference.cache
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\obj\Debug\WAGES.Log.csproj.CoreCompileInputs.cache
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\obj\Debug\WAGES.Log.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\obj\Debug\WAGES.Log.pdb

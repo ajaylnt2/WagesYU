@@ -1,0 +1,406 @@
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\obj\Debug\WAGESUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\ApplicationInsights.config
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\csc.exe
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\vbc.exe
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMSUnitTest.dll.config
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMSUnitTest.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMSUnitTest.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Castle.Core.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.Business.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.Business.Interface.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.DataAccess.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.DataAccess.Interface.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.DTO.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMSClientApplication.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Moq.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.Log.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Ninject.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\LnT.SSO.Saml2.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Owin.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\LnT.SSO.Saml2.Mvc.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.Encryption.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.Business.Interface.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.Business.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.DataAccess.Interface.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.DataAccess.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.DTO.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMSClientApplication.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMSClientApplication.dll.config
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Moq.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Moq.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.Log.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Ninject.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\EMMS.Encryption.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\obj\Debug\EMMSUnitTest.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\EMMSUnitTest\obj\Debug\EMMSUnitTest.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\ApplicationInsights.config
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\csc.exe
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\vbc.exe
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGESUnitTest.dll.config
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGESUnitTest.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGESUnitTest.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Castle.Core.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Moq.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.Business.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.Business.Interface.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.DataAccess.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.DataAccess.Interface.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.DTO.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGESClientApplication.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.Log.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Ninject.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\LnT.SSO.Saml2.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Owin.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\LnT.SSO.Saml2.Mvc.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.Encryption.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.Business.Interface.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.Business.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.DataAccess.Interface.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.DataAccess.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.DTO.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGESClientApplication.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGESClientApplication.dll.config
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Moq.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Moq.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.Log.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Ninject.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\WAGES.Encryption.pdb
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\obj\Debug\WAGESUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\obj\Debug\WAGESUnitTest.dll
+C:\Users\90001853\Documents\My Received Files\Copy\MVC Manual Entry\WAGESClientApplication\WAGESUnitTest\obj\Debug\WAGESUnitTest.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\ApplicationInsights.config
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\csc.exe
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\vbc.exe
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\VBCSCompiler.exe
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESUnitTest.dll.config
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESUnitTest.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESUnitTest.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Castle.Core.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Moq.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Net.Http.Formatting.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Helpers.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Mvc.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Razor.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.Interface.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.Interface.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DTO.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESClientApplication.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Log.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Ninject.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Optimization.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\LnT.SSO.Saml2.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Owin.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.Owin.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\LnT.SSO.Saml2.Mvc.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.WebHost.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Encryption.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.Interface.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.Interface.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DTO.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESClientApplication.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESClientApplication.dll.config
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Moq.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Moq.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Net.Http.Formatting.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Helpers.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Mvc.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Razor.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Log.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Ninject.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Optimization.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.Owin.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.WebHost.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Encryption.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.csprojResolveAssemblyReference.cache
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\ApplicationInsights.config
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\csc.exe
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\System.Collections.Immutable.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\System.Reflection.Metadata.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\vbc.exe
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\VBCSCompiler.exe
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESUnitTest.dll.config
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESUnitTest.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESUnitTest.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Castle.Core.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Moq.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Newtonsoft.Json.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Net.Http.Formatting.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Helpers.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Mvc.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Razor.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.Interface.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.Interface.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DTO.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESClientApplication.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Log.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Ninject.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Optimization.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\LnT.SSO.Saml2.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Owin.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.Owin.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.WebHost.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Encryption.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Amqp.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.Interface.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.Interface.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DTO.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESClientApplication.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESClientApplication.dll.config
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Moq.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Moq.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Newtonsoft.Json.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Net.Http.Formatting.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Helpers.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Mvc.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Razor.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Log.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Ninject.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Optimization.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.Owin.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.WebHost.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Encryption.pdb
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Amqp.xml
+F:\new wages\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.csprojResolveAssemblyReference.cache
+F:\new wages\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.csproj.CoreCompileInputs.cache
+F:\new wages\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.dll
+F:\new wages\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\ApplicationInsights.config
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\csc.exe
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\vbc.exe
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\VBCSCompiler.exe
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESUnitTest.dll.config
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESUnitTest.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESUnitTest.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Castle.Core.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Moq.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Newtonsoft.Json.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Net.Http.Formatting.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Helpers.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Mvc.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Razor.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.Interface.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.Interface.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DTO.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESClientApplication.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Log.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Ninject.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Optimization.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\LnT.SSO.Saml2.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Owin.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.Owin.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.WebHost.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\LnT.SSO.Saml2.Mvc.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Encryption.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Amqp.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.Interface.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Business.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.Interface.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DataAccess.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.DTO.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESClientApplication.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGESClientApplication.dll.config
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Moq.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Moq.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Newtonsoft.Json.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Net.Http.Formatting.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Helpers.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Mvc.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Razor.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Log.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Ninject.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Optimization.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Devices.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.Owin.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\System.Web.Http.WebHost.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\WAGES.Encryption.pdb
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Owin.Security.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\bin\Debug\Microsoft.Azure.Amqp.xml
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.csprojResolveAssemblyReference.cache
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.csproj.CoreCompileInputs.cache
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.dll
+E:\05SEP2017\MvcApplication&Api\WAGESUnitTest\obj\Debug\WAGESUnitTest.pdb

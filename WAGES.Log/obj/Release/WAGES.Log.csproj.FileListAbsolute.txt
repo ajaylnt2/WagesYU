@@ -1,0 +1,56 @@
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\WAGES.Log.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\WAGES.Log.pdb
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Helpers.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Mvc.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Razor.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Deployment.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Razor.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Helpers.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Mvc.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Razor.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Deployment.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Razor.xml
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.csprojResolveAssemblyReference.cache
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.dll
+D:\90001853\Source\Workspaces\WagesService\Source\Trunk\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.pdb
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\WAGES.Log.dll
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\WAGES.Log.pdb
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Helpers.dll
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Mvc.dll
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Razor.dll
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Deployment.dll
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.dll
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Razor.dll
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Helpers.xml
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Mvc.xml
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Razor.xml
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.xml
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Deployment.xml
+F:\new wages\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Razor.xml
+F:\new wages\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.csprojResolveAssemblyReference.cache
+F:\new wages\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.csproj.CoreCompileInputs.cache
+F:\new wages\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.dll
+F:\new wages\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.pdb
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\WAGES.Log.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\WAGES.Log.pdb
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Helpers.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Mvc.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Razor.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Deployment.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Razor.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Helpers.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Mvc.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.Razor.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Deployment.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\bin\Release\System.Web.WebPages.Razor.xml
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.csprojResolveAssemblyReference.cache
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.csproj.CoreCompileInputs.cache
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.dll
+E:\05SEP2017\MvcApplication&Api\WAGES.Log\obj\Release\WAGES.Log.pdb
